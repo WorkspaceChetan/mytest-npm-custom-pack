@@ -1,7 +1,7 @@
 {
-  "name": "mytest-npm-custom-pack",
-  "version": "1.0.1",
-  "description": "",
+  "name": "@workspacechetan/mytest-npm-custom-pack",
+  "version": "1.0.3",
+  "description": "Chetan Bardoliya",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
